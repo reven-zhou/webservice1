@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TaxCaculate">
+    <output-path>$PROJECT_DIR$/out/artifacts/TaxCaculate</output-path>
+    <root id="archive" name="TaxCaculate.jar">
+      <element id="module-output" name="IncomeTaxCaculate" />
+    </root>
+  </artifact>
+</component>
